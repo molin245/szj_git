@@ -1,0 +1,31 @@
+server:
+  port: 8000
+spring:
+  jpa:
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  datasource:                     # 指定数据源
+    platform: h2                  # 指定数据源类型
+    schema: classpath:schema.sql  # 指定h2数据库的建表脚本
+    data: classpath:data.sql      # 指定h2数据库的数据脚本
+management:
+    security:
+      enabled: false
+
+logging:
+  level:
+    root: INFO
+    org.hibernate: INFO
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE        # 打印sql的日志类: 日志示例：o.h.type.descriptor.sql.BasicBinder  : binding parameter [1] as [BIGINT] - [1]
+    org.hibernate.type.descriptor.sql.BasicExtractor: TRACE     #打印sql的日志类: 获取列名和value extracted value ([age2_0_0_] : [INTEGER]) - [20]
+
+info:
+    app:
+      name: microservice-simple-provider-user
+      encoding: UTF-8
+      java:
+        source: 1.8.0_241
+        target: 1.8.0_241
+

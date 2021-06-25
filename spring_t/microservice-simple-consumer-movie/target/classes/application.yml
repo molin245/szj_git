@@ -1,0 +1,17 @@
+server:
+  port: 8010
+spring:
+  application:
+    name: microservice-simple-consumer-movie
+  freemarker:
+    prefer-file-system-access: false
+eureka:
+  client:
+    instance:
+      prefer-ip-address: ture
+    fetch-registry: false
+    register-with-eureka: false
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+user:
+  userServiceUrl: http://localhost:8000/

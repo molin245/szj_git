@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e65a8c9-d78e-44ef-aa3b-977e3bf54748" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="microservice-simple" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u3RHCnvVBNKm4k9Tfn6rHzPNaL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="last_opened_file_path" value="E:/gfs_code" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3091954" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.szj.cloud.study.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProviderUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-simple-provider-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szj.cloud.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szj.cloud.study.ProviderUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProviderUserApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:movie" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:movie" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5e7d41a" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e65a8c9-d78e-44ef-aa3b-977e3bf54748" name="Default Changelist" comment="" />
+      <created>1623892196002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623892196002</updated>
+      <workItem from="1623892198003" duration="16160000" />
+      <workItem from="1623988895116" duration="848000" />
+      <workItem from="1623993975186" duration="2694000" />
+      <workItem from="1624001322033" duration="673000" />
+      <workItem from="1624008827400" duration="902000" />
+      <workItem from="1624088803424" duration="2355000" />
+      <workItem from="1624235989831" duration="2490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1623921551733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1623921551733" />
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623987769675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1623987769675" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623985525402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1623985525402" />
+    <state width="1237" height="113" key="GridCell.Tab.0.bottom" timestamp="1624241331336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624241331336" />
+    <state width="1237" height="113" key="GridCell.Tab.0.center" timestamp="1624241331336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1624241331336" />
+    <state width="1237" height="113" key="GridCell.Tab.0.left" timestamp="1624241331336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1624241331336" />
+    <state width="1237" height="113" key="GridCell.Tab.0.right" timestamp="1624241331336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1624241331336" />
+    <state width="1237" height="113" key="GridCell.Tab.1.bottom" timestamp="1624241331336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624241331336" />
+    <state width="1237" height="113" key="GridCell.Tab.1.center" timestamp="1624241331336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1624241331336" />
+    <state width="1237" height="113" key="GridCell.Tab.1.left" timestamp="1624241331336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1624241331336" />
+    <state width="1237" height="113" key="GridCell.Tab.1.right" timestamp="1624241331336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1624241331336" />
+    <state width="218" height="477" key="HiddenNamespacesPopup" timestamp="1623921587081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="218" height="477" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1623921587081" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1623985813974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1623985813974" />
+    <state x="395" y="95" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1623926674455">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="95" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1280.680@0.0.1280.680" timestamp="1623926674455" />
+    <state x="501" y="88" width="526" height="505" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1623926235181">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="501" y="88" width="526" height="505" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1280.680@0.0.1280.680" timestamp="1623926235181" />
+    <state x="261" y="60" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1623926667955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="261" y="60" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1280.680@0.0.1280.680" timestamp="1623926667955" />
+  </component>
+</project>

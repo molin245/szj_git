@@ -1,0 +1,33 @@
+spring:
+  application:
+    # name 改为驼峰命名才正确
+    name: microserviceDiscoveryEurekaHa
+---
+spring: 
+  # 指定profile=peer1
+  profiles: peer1
+server:
+  port: 8761
+eureka:
+  instance:
+    # 指定当profile=peer1时，主机名为peer1
+    hostname: peer1
+  client:
+    serviceUrl:
+      #将自己注册到peer2这个Eureka上面去
+      defaultZone: http://peer2:8762/eureka/  # 设置与Eureka Server交互的地址，查询服务和注册服务都需要依赖这个地址
+
+---
+spring: 
+  # 指定profile=peer2
+  profiles: peer2
+server:
+  port: 8762
+eureka:
+  instance:
+    # 指定当profile=peer2时，主机名为peer2
+    hostname: peer2
+  client:
+    serviceUrl:
+      #将自己注册到peer2这个Eureka上面去
+      defaultZone: http://peer1:8761/eureka/  # 设置与Eureka Server交互的地址，查询服务和注册服务都需要依赖这个地址

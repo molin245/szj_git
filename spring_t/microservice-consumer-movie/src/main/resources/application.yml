@@ -1,0 +1,17 @@
+server:
+  port: 8010
+spring:
+  application:
+    name: microservice-consumer-movie
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:password123@localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true # 注册ip到 Eureka Server
+security:
+  basic:
+    enabled: true
+
+user:
+  userServiceUrl: http://localhost:8000/
